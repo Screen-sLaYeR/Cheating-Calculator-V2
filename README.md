@@ -53,7 +53,7 @@ Carefully open the calculator casing without damaging the front keypad or PCB.
 Use the image below to identify which calculator button pads are required.
 
 ![Calculator Buttons](buttons.jpeg)
-*(Shows the calculator buttons used in this project)*
+
 
 These pads will be connected to ESP32 GPIOs.
 
@@ -64,7 +64,7 @@ These pads will be connected to ESP32 GPIOs.
 Instead of individual buttons, traces are tapped directly to reduce wiring.
 
 ![Tapped Traces](tapped_signals.jpeg)
-*(Shows where wires are soldered onto PCB traces)*
+
 
 Carefully solder thin wires to these traces.
 
