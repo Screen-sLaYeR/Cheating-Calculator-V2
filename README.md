@@ -72,8 +72,8 @@ Carefully solder thin wires to these traces.
 
 ### 4️⃣ Connecting the ESP32-S3
 
-* Connect the button wires to **GPIO 8, 9, and 12**
-* Connect the OLED display to **GPIO 5 (SDA)** and **GPIO 6 (SCL)**
+* Connect the button wires to **GPIO 4, 5, and 7**
+* Connect the OLED display to **GPIO 10 (SDA)** and **GPIO 11 (SCL)**
 
 ![Circuit Diagram](circuit_image.png)
 Ensure proper grounding and short wire lengths.
