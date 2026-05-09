@@ -27,16 +27,16 @@ This project converts a normal scientific calculator into a **smart ESP32-based 
 
 ### OLED Display (I²C)
 
-* **GPIO 5** → SDA
-* **GPIO 6** → SCL
+* **GPIO 10** → SDA
+* **GPIO 11** → SCL
 
 ### Calculator Buttons
 
-* **GPIO 8**
-* **GPIO 9**
-* **GPIO 12**
+* **GPIO 4**
+* **GPIO 5**
+* **GPIO 7**
 
-Only **3 GPIOs** are used to interface all buttons.
+Only **3 GPIOs** are used to for Up , Down and Enter/Exit Operation.
 
 ---
 
@@ -75,7 +75,7 @@ Carefully solder thin wires to these traces.
 * Connect the button wires to **GPIO 8, 9, and 12**
 * Connect the OLED display to **GPIO 5 (SDA)** and **GPIO 6 (SCL)**
 
-![Circuit Diagram](circuit_image.png)
+![Circuit Diagram]()
 Ensure proper grounding and short wire lengths.
 
 ---
