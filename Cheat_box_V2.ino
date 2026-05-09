@@ -6,13 +6,11 @@
 #include <Adafruit_SSD1306.h>
 #include <esp_wifi.h> // Required for advanced power control
 
-/* ---------- Pins ---------- */
-#define BTN_UP     8
-#define BTN_DOWN   9
-#define BTN_ENTER  12
-
-#define I2C_SDA    6
-#define I2C_SCL    7
+#define BTN_UP 5
+#define BTN_DOWN 4
+#define BTN_ENTER 7
+#define I2C_SDA 10
+#define I2C_SCL 11
 
 /* ---------- OLED ---------- */
 #define SCREEN_WIDTH 128
