@@ -75,7 +75,7 @@ Carefully solder thin wires to these traces.
 * Connect the button wires to **GPIO 8, 9, and 12**
 * Connect the OLED display to **GPIO 5 (SDA)** and **GPIO 6 (SCL)**
 
-![Circuit Diagram]()
+![Circuit Diagram](circuit_image.png)
 Ensure proper grounding and short wire lengths.
 
 ---
