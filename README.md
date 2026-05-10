@@ -160,3 +160,4 @@ Feel free to modify, improve, or learn from it.
 ### 🙌 Thanks for checking out this project
 
 If you liked it, consider starring ⭐ the repo and following for more ESP32 projects!
+and To Support my work Buy me a [Chai](https://onlychai.neocities.org/support.html?name=Unknown%20Engineer&upi=ramgupta1106%40slc#)
